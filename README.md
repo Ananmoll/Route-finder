@@ -31,7 +31,7 @@ It also lets you connect your Spotify account to view your playlists while you t
 API_KEY = "your_openrouteservice_api_key"
 SPOTIPY_CLIENT_ID = "your_spotify_client_id"
 SPOTIPY_CLIENT_SECRET = "your_spotify_client_secret"
-SPOTIPY_REDIRECT_URI = "http://127.0.0.1:5000/spotify/callback"
+
 
 
 
